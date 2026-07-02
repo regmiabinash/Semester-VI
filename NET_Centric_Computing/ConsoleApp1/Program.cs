@@ -4,9 +4,19 @@ namespace ConsoleApp1
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
-            Console.WriteLine("Hello World!");
+          int  a = 10;
+          int  b = 20;
+
+            if(a==10 && b == 20)
+            {
+
+                Console.WriteLine("Hello World!");
+            }
+            else {
+                Console.WriteLine("False");
+            }
         }
     }
 }
