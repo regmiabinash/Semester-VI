@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\bin\Debug\netcoreapp3.1\day2part2.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\bin\Debug\netcoreapp3.1\day2part2.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\bin\Debug\netcoreapp3.1\day2part2.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\bin\Debug\netcoreapp3.1\day2part2.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\bin\Debug\netcoreapp3.1\day2part2.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\bin\Debug\netcoreapp3.1\day2part2.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day2part2\obj\Debug\netcoreapp3.1\day2part2.genruntimeconfig.cache
