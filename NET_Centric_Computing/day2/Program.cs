@@ -17,13 +17,13 @@ namespace day2
                 Console.WriteLine("No No No");
             }
             string gender = "M";
-            if (gender == "M")
+            if (gender != "M")
             {
-                Console.WriteLine(" Male");
+                Console.WriteLine(" Female");
             }
             else
             {
-                Console.WriteLine("Female");
+                Console.WriteLine("Male");
             }
             var z = 19;
             if (z > 18)
