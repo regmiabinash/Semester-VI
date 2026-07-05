@@ -8,7 +8,7 @@ namespace day2part2
         {
             string gender = "F";
             int Age = 17;
-            if (gender== "F")
+            if (gender == "F")
             {
                 Console.WriteLine("You are a female");
                  if (Age < 18)
