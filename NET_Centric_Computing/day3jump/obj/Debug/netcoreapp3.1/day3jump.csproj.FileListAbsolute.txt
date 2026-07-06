@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\bin\Debug\netcoreapp3.1\day3jump.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\bin\Debug\netcoreapp3.1\day3jump.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\bin\Debug\netcoreapp3.1\day3jump.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\bin\Debug\netcoreapp3.1\day3jump.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\bin\Debug\netcoreapp3.1\day3jump.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\bin\Debug\netcoreapp3.1\day3jump.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\day3jump\obj\Debug\netcoreapp3.1\day3jump.genruntimeconfig.cache

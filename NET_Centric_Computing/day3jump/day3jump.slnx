@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../dowhile/dowhile.csproj" />
+  <Project Path="day3jump.csproj" />
+</Solution>
