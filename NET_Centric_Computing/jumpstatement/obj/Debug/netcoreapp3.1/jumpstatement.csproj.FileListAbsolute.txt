@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.genruntimeconfig.cache
