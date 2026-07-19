@@ -1,1 +1,1 @@
-#
+#knew about wordpress and made a page
