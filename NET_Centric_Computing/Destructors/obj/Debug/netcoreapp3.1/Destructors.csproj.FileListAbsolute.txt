@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\bin\Debug\netcoreapp3.1\Destructors.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\bin\Debug\netcoreapp3.1\Destructors.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\bin\Debug\netcoreapp3.1\Destructors.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\bin\Debug\netcoreapp3.1\Destructors.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\bin\Debug\netcoreapp3.1\Destructors.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\bin\Debug\netcoreapp3.1\Destructors.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Destructors\obj\Debug\netcoreapp3.1\Destructors.genruntimeconfig.cache

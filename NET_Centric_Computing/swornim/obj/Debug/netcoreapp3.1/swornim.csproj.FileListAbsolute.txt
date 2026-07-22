@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\bin\Debug\netcoreapp3.1\swornim.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\bin\Debug\netcoreapp3.1\swornim.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\bin\Debug\netcoreapp3.1\swornim.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\bin\Debug\netcoreapp3.1\swornim.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\bin\Debug\netcoreapp3.1\swornim.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\bin\Debug\netcoreapp3.1\swornim.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\swornim\obj\Debug\netcoreapp3.1\swornim.genruntimeconfig.cache
