@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\bin\Debug\netcoreapp3.1\absentuesday.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\bin\Debug\netcoreapp3.1\absentuesday.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\bin\Debug\netcoreapp3.1\absentuesday.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\bin\Debug\netcoreapp3.1\absentuesday.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\bin\Debug\netcoreapp3.1\absentuesday.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\bin\Debug\netcoreapp3.1\absentuesday.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\absentuesday\obj\Debug\netcoreapp3.1\absentuesday.genruntimeconfig.cache
