@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\bin\Debug\netcoreapp3.1\Contractor.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\bin\Debug\netcoreapp3.1\Contractor.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\bin\Debug\netcoreapp3.1\Contractor.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\bin\Debug\netcoreapp3.1\Contractor.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\bin\Debug\netcoreapp3.1\Contractor.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\bin\Debug\netcoreapp3.1\Contractor.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\Contractor\obj\Debug\netcoreapp3.1\Contractor.genruntimeconfig.cache

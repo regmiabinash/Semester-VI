@@ -1,0 +1,14 @@
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.sourcelink.json
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.pdb
+C:\Users\dell\Abinash Regmi\Semester-VI\NET_Centric_Computing\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.genruntimeconfig.cache
